@@ -1,6 +1,6 @@
 # GetSongDetails.scpt
 
-A simple script for getting following details of every song in the Library chosen.
+A simple script for getting following details of every song in the Library chosen. Assumption is that all these information available in ID3V2 tag of the song. 
 
 **_Titel of song : Album name : Album artist (Lyricist): Composer : year : Aritists (Singers) : Comments_**
 
