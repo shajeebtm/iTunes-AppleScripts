@@ -11,3 +11,9 @@ These scripts are mainly useful
 
 
 *Thanks to many online documents and discussions on managing iTunes by AppleScripts 
+
+
+Following scripts are available in this project
+
+1. GetSongDetails.scpt - A simple script for getting ID3V2 tags of every song in the Library chosen.
+2. Abcd.scpt - test
