@@ -15,5 +15,5 @@ These scripts are mainly useful
 
 Following scripts are available in this project
 
-1. GetSongDetails.scpt - A simple script for getting ID3V2 tags of every song in the Library chosen.
+1. GetSongDetails.scpt - _A simple script for getting ID3V2 tags of every song in the Library chosen._
 2. Abcd.scpt - test
