@@ -8,7 +8,7 @@ SMART::Malayalam Film Songs::Year wise::2006-2010:-:Year,is in the range,2006-20
 SMART::Malayalam Film Songs::Year wise::2011:-:Year,is,2011
 SMART::Light Songs:-:Comments,is,Light Songs
 
-The firs tline says that 
+The first line in the output says that 
 - "Malayalam Film Songs" is a folder
    - "Year wise" is a subfloder
      - "2006-2010" is the name of smart playlist
