@@ -15,4 +15,4 @@ $ osascript Create_Nested_Folders.scpt
 - On completion a dialog box shows 'Completed !'
 - Any error will be shown on terminal
 
-[[/images/path/to/image.ext|ALT TEXT]]
+
