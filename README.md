@@ -5,9 +5,9 @@ These scripts are mainly useful
 - if you manage ipod/iphone/ipad music library directly, means not synced with your laptop music library
 - if you have thousands of songs with ID3V2 tag information set
 - if you care about Album Name, Track Name, Artist Name, Composer Name and Album Artist Name
-- if you organize songs into playlists , esepcially smart playlists
+- if you organize songs into Folders, Playlists , esepcially smart playlists
 - if you would like to copy playlists across multiple devices
-- if you often add/remove songs in your device library and you want smart playlist to be updated
+- if you often add/remove songs in your device library and you want playlist & smart playlist to be updated
 
 
 *Thanks to many online documents and discussions on managing iTunes by AppleScripts 
