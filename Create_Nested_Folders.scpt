@@ -6,7 +6,7 @@ set myDevice to {}
 set rootFolder to "Albums:All" -- Name of the root folder
 set myString to "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 set myChars to characters of myString -- get a list with every character as one element
-set sleepBetweenFolders to 2
+set sleepBetweenFolders to 0.25
 set sleepBetweenAlbums to 2
 set updateStartAttempts to 20 -- with a delay of 0.5 sec between every attempt
 set updateFinishAttempts to 30 -- with a delay of 1 sec between every attempt
