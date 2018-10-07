@@ -12,7 +12,7 @@ Sample output will look like below.
 1. SMART::Malayalam Film Songs::Year wise::2006-2010:-:Year,is in the range,2006-2010 <-- folder & subfolder
 1. SMART::Malayalam Film Songs::Year wise::2011:-:Year,is,2011 <-- folder & sub folder
 1. SMART::Hindi::hindi-Kumar Sanu Hits:-:Comments,is,Hindi-Kumar Sanu Hits <-- One folder
-1. SMART::AMbu:-:Comments,contains,Ambu <-- 
+1. SMART::AMbu:-:Comments,contains,Ambu <-- No folder
 
 The first line in the output says that 
 - "Malayalam Film Songs" is a folder
@@ -20,7 +20,7 @@ The first line in the output says that
      - "2006-2010" is the name of smart playlist
         - "Year,is in the range,2006-2010" is the rule.
  
-Third line int he output says that
+Third line int the output says that
  - "Hindi" is a folder
    - "hindi-Kumar Sanu Hits" is the name of the smart playlist
       - "Comments,is,Hindi-Kumar Sanu Hits". is the rule
