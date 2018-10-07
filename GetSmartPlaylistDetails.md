@@ -33,7 +33,7 @@ How to use this script :
 
 Execute following command on Mac terminal (shell)
 
-$ osascript GetSmartPlaylistDetails.md
+$ osascript GetSmartPlaylistDetails.scpt
 - ITunes window will be activated now 
 - Choose the Library / Device
 - You will see iTunes iterating through each smart playlists, opening and closing them to read rules.
