@@ -16,3 +16,4 @@ $ osascript CopyToPlayOrder.scpt
 - On completion a dialog box shows 'Completed !'
 - Any error, debugging information will be shown on terminal
 
+<font color="red"> It is important to leave ITunes window untouched and Mac untouched while this script is running. </font>
