@@ -1,4 +1,4 @@
-Documentation of the scripts.
+Documentation for the scripts.
 
 Following scripts are available in this project
 
