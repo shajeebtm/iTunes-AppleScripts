@@ -17,3 +17,11 @@ $ osascript CopyToPlayOrder.scpt
 - Any error, debugging information will be shown on terminal
 
 <font color="red"> It is important to leave ITunes window untouched and Mac untouched while this script is running. </font>
+
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
+</style>
+<p>okay</p>
