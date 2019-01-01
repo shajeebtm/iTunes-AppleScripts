@@ -18,8 +18,8 @@ $ osascript CopyToPlayOrder.scpt
 
 Pre-requisites:
 1. This script need access to system events to get status of music device. Please follow below steps to allow your script to get correct access
--- Goto system preferences
--- Click on Privacy tab
+   * Goto system preferences
+   * Click on Privacy tab
 -- Choose Accessibility on the left panel, now you see 'Allow the apps below to control your computer'
 -- Click on + button , type terminal on the finder window, choose 'Terminal.app' , click on Open button
 1. /opt/local/bin/cliclick
