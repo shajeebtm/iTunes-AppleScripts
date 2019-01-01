@@ -22,5 +22,5 @@ Following scripts are available in this project
 
 
 Pre-requisites : 
-- MacBook as these scripts can be used only on MacOS.
-- IPad, IPhone , Ipod etc 
+- MacBook or MacBook-pro or MacBook-air as these scripts can be used only on MacOS.
+- Ipad or Iphone , Ipod etc where music is stored.  
