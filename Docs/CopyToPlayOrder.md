@@ -2,7 +2,7 @@
 
 This script is for updating  playlists on a device. iTunes doesnt automatically update smart playlists when you add new songs into the library.
 Assume you had a smat playlist named 2010 which is based on the ID3V2 tag year . Suppose you added few more songs later into the library which has year value 2010 . In order to get your playlist '2010' updated you have to right-click on the playlist and then choose 'copy to play order'.
-You can manually do this when you few smart playlists. But when you have many smart playlists and you added lots of songs then it make sonese to use a script.
+You can manually do this as long as you have few smart playlists. But when you have many smart playlists and you added lots of songs into the library then it make snese to use a script.
 
 How to use this script :
 
