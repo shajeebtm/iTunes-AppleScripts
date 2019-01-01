@@ -22,6 +22,6 @@ Pre-requisites:
    * Click on Privacy tab
    * Choose Accessibility on the left panel, now you see 'Allow the apps below to control your computer'
    * Click on + button , type terminal on the finder window, choose 'Terminal.app' , click on Open button
-1. This script need 'cliclick' utility to emaulate mouse click. You can installt it install cliclick through [MacPorts] (http://www.macports.org/)  or [Homebrew] (http://brew.sh/) or [bluem.net](https://www.bluem.net/en/projects/cliclick/) .
+1. This script need 'cliclick' utility to emaulate mouse click. You can install cliclick through [MacPorts (http://www.macports.org/)  or [Homebrew](http://brew.sh/) or [bluem.net](https://www.bluem.net/en/projects/cliclick/) .
 
 ## It is important to leave ITunes window and Mac untouched while this script runs. 
