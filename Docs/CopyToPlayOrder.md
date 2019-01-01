@@ -16,10 +16,12 @@ $ osascript CopyToPlayOrder.scpt
 - On completion a dialog box shows 'Completed !'
 - Any error, debugging information will be shown on terminal
 
-Pre-requisites : This script need access to system events to get status of music device. Please follow below steps to allow your script to get correct access
+Pre-requisites:
+1. This script need access to system events to get status of music device. Please follow below steps to allow your script to get correct access
 - Goto system preferences
 - Click on Privacy tab
 - Choose Accessibility on the left panel, now you see 'Allow the apps below to control your computer'
 - Click on + button , type terminal on the finder window, choose 'Terminal.app' , click on Open button
 
+1. /opt/local/bin/cliclick
 ## It is important to leave ITunes window and Mac untouched while this script runs. 
