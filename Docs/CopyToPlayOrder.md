@@ -25,3 +25,5 @@ h1 {color:red;}
 p {color:blue;}
 </style>
 <p>okay</p>
+
+<span style="color: green"> Some green text </span>
