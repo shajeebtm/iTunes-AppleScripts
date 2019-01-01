@@ -22,5 +22,10 @@ Following scripts are available in this project
 
 
 Pre-requisites : 
-- MacBook or MacBook-pro or MacBook-air as these scripts can be used only on MacOS.
-- Ipad or Iphone , Ipod etc where music is stored.  
+1. MacBook or MacBook-pro or MacBook-air as these scripts can be used only on MacOS.
+1. Ipad or Iphone , Ipod etc where music is stored.
+1. Some of the scripts here  need access to system events to get status of music device. Please follow below steps to allow your script to get correct access
+   * Goto system preferences
+   * Click on Privacy tab
+   * Choose Accessibility on the left panel, now you see 'Allow the apps below to control your computer'
+   * Click on + button , type terminal on the finder window, choose 'Terminal.app' , click on Open button
