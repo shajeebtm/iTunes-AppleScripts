@@ -21,4 +21,6 @@ Following scripts are available in this project
 4. [CreateSmartPlaylist.scpt](Scripts/CreateSmartPlaylist.scpt) - _A script for creating multiple smart playlists based on the rules listed in an input file_
 
 
-Pre-requisites : MacBook as these scripts can be used only on MacOS
+Pre-requisites : 
+- MacBook as these scripts can be used only on MacOS.
+- IPad, IPhone , Ipod etc 
