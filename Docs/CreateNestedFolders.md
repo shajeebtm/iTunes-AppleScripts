@@ -16,3 +16,4 @@ $ osascript CreateNestedFolders.scpt
 - Any error will be shown on terminal
 
 
+[[../images/iTunes_folder_tree.png]]
