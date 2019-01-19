@@ -15,5 +15,6 @@ $ osascript CreateNestedFolders.scpt
 - On completion a dialog box shows 'Completed !'
 - Any error will be shown on terminal
 
-
+![Test Image 6](../images/iTunes_folder_tree.png)
+[[images/iTunes_folder_tree.png]]
 [[../images/iTunes_folder_tree.png]]
